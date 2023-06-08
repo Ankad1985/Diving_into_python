@@ -26,6 +26,7 @@
 
 # integer = int(input('Введите целое число: '))
 # print(gonext(integer, 2))
+# # print(gonext(integer, 2) == int(bin(integer)[2:]))
 
 integer = int(input("Введите целое число: "))
 
